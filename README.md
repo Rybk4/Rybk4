@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```abap
-From: 31 October 2025 - To: 30 November 2025
+From: 02 November 2025 - To: 02 December 2025
 
-Total Time: 117 hrs 27 mins
+Total Time: 123 hrs 46 mins
 
-TypeScript   88 hrs 49 mins  ███████████████████░░░░░░   75.62 %
-Python       14 hrs 32 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
-Makefile     7 hrs 25 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-Bash         3 hrs 34 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-Markdown     38 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+TypeScript   92 hrs 32 mins  ██████████████████▓░░░░░░   74.76 %
+Python       16 hrs 3 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
+Makefile     7 hrs 45 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+Bash         3 hrs 46 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+Markdown     57 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
