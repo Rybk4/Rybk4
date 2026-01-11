@@ -1,15 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```abap
-From: 09 December 2025 - To: 08 January 2026
+From: 10 December 2025 - To: 09 January 2026
 
-Total Time: 53 hrs 46 mins
+Total Time: 47 hrs 51 mins
 
-TypeScript   51 hrs 52 mins  ████████████████████████░   96.17 %
-Makefile     33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Bash         21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-Docker       19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Other        9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+TypeScript   46 hrs 44 mins  ████████████████████████▒   97.67 %
+Docker       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Makefile     8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+TSConfig     8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
