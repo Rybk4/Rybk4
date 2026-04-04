@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```abap
-From: 02 March 2026 - To: 01 April 2026
+From: 03 March 2026 - To: 02 April 2026
 
-Total Time: 112 hrs 42 mins
+Total Time: 111 hrs 1 min
 
-Dart              47 hrs 55 mins        ██████████▓░░░░░░░░░░░░░░   42.30 %
-TypeScript        46 hrs 30 mins        ██████████▒░░░░░░░░░░░░░░   41.05 %
-Bash              4 hrs 25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-Makefile          2 hrs 38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-Python            1 hr 48 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Dart              49 hrs 56 mins        ███████████░░░░░░░░░░░░░░   44.64 %
+TypeScript        42 hrs 45 mins        █████████▓░░░░░░░░░░░░░░░   38.22 %
+Bash              3 hrs 57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+Makefile          3 hrs                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+Python            1 hr 59 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
 <!--END_SECTION:waka-->
