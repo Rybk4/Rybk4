@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```abap
-From: 07 June 2026 - To: 07 July 2026
+From: 08 June 2026 - To: 08 July 2026
 
-Total Time: 114 hrs 47 mins
+Total Time: 116 hrs 20 mins
 
-TypeScript    76 hrs 32 mins        ████████████████▓░░░░░░░░   66.35 %
-Python        15 hrs 7 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
-Markdown      4 hrs 44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-Bash          4 hrs 17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-Dart          3 hrs 51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+TypeScript    78 hrs 24 mins        ████████████████▓░░░░░░░░   67.06 %
+Python        14 hrs 48 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
+Markdown      4 hrs 48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Bash          4 hrs 11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Dart          3 hrs 51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
 ```
 
 <!--END_SECTION:waka-->
